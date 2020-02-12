@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="515ca626-9818-49b4-be81-9cc9f4a65160" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1XLmte9pwWcWMMWWXCgCaYCDpqg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/blooddonors/ibd/templates/registration" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/blooddonors/ibd/templates" />
+      <recent name="$PROJECT_DIR$/blooddonors/ibd/templates/ibd" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/blooddonors/ibd/templates/registration" />
+      <recent name="$PROJECT_DIR$/blooddonors/ibd/templates/ibd" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="views" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="django-blood" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/blooddonors/ibd" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/blooddonors/ibd/views.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.views" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="515ca626-9818-49b4-be81-9cc9f4a65160" name="Default Changelist" comment="" />
+      <created>1580833964952</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580833964952</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="444" y="231" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1581451682991">
+      <screen x="0" y="23" width="1440" height="805" />
+    </state>
+    <state x="444" y="228" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.790@0.23.1440.790" timestamp="1580852501536" />
+    <state x="444" y="229" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.795@0.23.1440.795" timestamp="1581123548507" />
+    <state x="444" y="231" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.805@0.23.1440.805" timestamp="1581451682991" />
+    <state x="444" y="233" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.811@0.23.1440.811" timestamp="1581191325514" />
+    <state x="228" y="66" key="SettingsEditor" timestamp="1581362311498">
+      <screen x="0" y="23" width="1440" height="805" />
+    </state>
+    <state x="228" y="66" key="SettingsEditor/0.23.1440.805@0.23.1440.805" timestamp="1581362311498" />
+    <state x="228" y="66" key="SettingsEditor/0.23.1440.811@0.23.1440.811" timestamp="1581342910235" />
+    <state x="374" y="38" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1581389119664">
+      <screen x="0" y="23" width="1440" height="805" />
+    </state>
+    <state x="374" y="38" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.23.1440.805@0.23.1440.805" timestamp="1581389119664" />
+    <state x="374" y="38" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.23.1440.811@0.23.1440.811" timestamp="1581186705337" />
+    <state x="386" y="53" width="667" height="728" key="find.popup" timestamp="1581020853229">
+      <screen x="0" y="23" width="1440" height="788" />
+    </state>
+    <state x="386" y="53" width="667" height="728" key="find.popup/0.23.1440.788@0.23.1440.788" timestamp="1581020853229" />
+    <state x="386" y="53" width="667" height="729" key="find.popup/0.23.1440.790@0.23.1440.790" timestamp="1580852227560" />
+    <state x="385" y="139" width="670" height="690" key="search.everywhere.popup" timestamp="1581431313157">
+      <screen x="0" y="23" width="1440" height="805" />
+    </state>
+    <state x="385" y="137" width="670" height="676" key="search.everywhere.popup/0.23.1440.790@0.23.1440.790" timestamp="1580839075919" />
+    <state x="385" y="137" width="670" height="678" key="search.everywhere.popup/0.23.1440.792@0.23.1440.792" timestamp="1581049643095" />
+    <state x="385" y="139" width="670" height="690" key="search.everywhere.popup/0.23.1440.805@0.23.1440.805" timestamp="1581431313157" />
+    <state x="385" y="140" width="670" height="695" key="search.everywhere.popup/0.23.1440.811@0.23.1440.811" timestamp="1581355592083" />
+  </component>
+</project>
